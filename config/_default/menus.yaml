@@ -1,0 +1,46 @@
+leftnav:
+- identifier: edf0eeb4-98fd-3810-080e-be16dc30f2d6
+  name: 'Syllabus '
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 90615c09-3de6-5e32-9119-e6fd2b755a78
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 5c3780dd-7a57-8158-4cc5-610abdf9e8ff
+  name: Readings
+  pageRef: /pages/readings/
+  weight: 30
+- identifier: 70fb653a-a2e2-a79c-5f7a-482467a309bf
+  name: Additional Recommended Bibliography
+  pageRef: /pages/readings/additional-recommended-bibliography
+  parent: 5c3780dd-7a57-8158-4cc5-610abdf9e8ff
+  weight: 40
+- identifier: 7ef496ae-22b8-f490-1ba9-a4c5129f1556
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 50
+- identifier: 06c4f1c4-f3e2-50a7-270a-2e6b8293e71b
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 60
+- identifier: f3143c0f-430d-b346-d2c7-0f34db72e824
+  name: Readings' Assignments
+  pageRef: /pages/assignments/readings-assignments
+  parent: 06c4f1c4-f3e2-50a7-270a-2e6b8293e71b
+  weight: 70
+- identifier: bf413fad-ff26-ffb3-48be-2e645c9dff46
+  name: Staged Israeli-Arab-Palestinian Peace Conference
+  pageRef: /pages/assignments/staged-israeli-arab-palestinian-peace-conference
+  parent: 06c4f1c4-f3e2-50a7-270a-2e6b8293e71b
+  weight: 80
+- identifier: ae8c8284-8a20-ae40-f407-8a38da60b82b
+  name: Classroom Presentation
+  pageRef: /pages/assignments/classroom-presentation
+  parent: 06c4f1c4-f3e2-50a7-270a-2e6b8293e71b
+  weight: 90
+- identifier: 128c16ed-d38e-5741-b8d9-fe2966da65f6
+  name: Final Paper
+  pageRef: /pages/assignments/final-paper
+  parent: 06c4f1c4-f3e2-50a7-270a-2e6b8293e71b
+  weight: 100
